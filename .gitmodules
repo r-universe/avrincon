@@ -8,3 +8,8 @@
 	url = https://github.com/avrincon/filternhp
 	shallow = true
 	registered = true
+[submodule "NetFACS"]
+	path = NetFACS
+	url = https://github.com/cran/NetFACS
+	shallow = true
+	registered = true
