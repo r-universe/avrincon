@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "NetFACS"]
-	path = NetFACS
-	url = https://github.com/cran/NetFACS
 [submodule "filterNHP"]
 	path = filterNHP
 	url = https://github.com/avrincon/filternhp
